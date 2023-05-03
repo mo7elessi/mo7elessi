@@ -46,9 +46,9 @@ I am a Mobile App Developer.
 <h3 >
  :fire: MY STATS</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7elessi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7elessi&layout=compact&theme=vision-friendly-dark)]
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mo7elessi&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mo7elessi&theme=vision-friendly-dark)]
 
 </div>
 <!--<h3 > :writing_hand: BLOGS POSTS</h3>-->
