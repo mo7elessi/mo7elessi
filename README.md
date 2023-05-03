@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href=https://www.facebook.com/mo.elessi7/">
-    <img src="https://img.shields.io/badge/FaceBook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/FaceBook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://wh.ms/970592879633/">
-    <img src="https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
 <h1 align="center">
