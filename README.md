@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<h1 align="center">HEY THERE 👋, I'M MOHAMMED ELESSI</h1>
+<h3 align="center">CONNECT WITH ME</h3>
+<p align="center">
+</p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/moelessi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,10 +17,10 @@
     <img src="https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
-<h1 align="center">
+<!--<h1 align="center">
   HEY THERE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h1>-->
 <h3 >:man_technologist: ABOUT ME </h3>                                                                     
 I am a Mobile App Developer.
                                                                                                             
@@ -39,12 +44,13 @@ I am a Mobile App Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" title="fegma" alt="fegma" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
                                                                                                                                             
-<h3 >
- :fire: MY STATS</h3>
+<h3 > :fire: MY STATS</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7elessi&layout=compact&theme=vision-friendly-dark)]
 
